@@ -34,6 +34,7 @@ There is **no single root application**; each task can be opened and run on its 
 | Task 19 | `TASK -19.zip` | Frontend sample (archived) | HTML/CSS/JS |
 | Task 20 | `TASK 20.zip` | Sample project archive | Text/sample files |
 | Task 21 | `TASK 21.zip` | Spring Boot demo + CI workflow archive | Java, Spring Boot, GitHub Actions |
+| Task 22 | `Task 22 Full Stack Course Management` | End-to-end course CRUD (UI + API + SSMS) | React, Spring Boot, JPA, SQL Server |
 
 ---
 
@@ -41,7 +42,7 @@ There is **no single root application**; each task can be opened and run on its 
 
 - **Backend:** Java, Spring Core, Spring MVC, Spring Boot, Spring Data JPA, Spring Cloud
 - **Databases:** SQL Server, MongoDB
-- **Frontend:** HTML, CSS, JavaScript, JSP, Thymeleaf
+- **Frontend:** HTML, CSS, JavaScript, React, JSP, Thymeleaf
 - **Data/Notebook:** Python, Pandas, SciPy, NLTK, PyMongo
 - **Build Tool:** Maven
 
