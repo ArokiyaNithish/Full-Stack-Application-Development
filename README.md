@@ -15,8 +15,8 @@ There is **no single root application**; each task can be opened and run on its 
 
 | Task | Path | Focus Area | Stack |
 |---|---|---|---|
-| Task 1 | `Task 1 Student Registration.zip` | Student registration mini full-stack app (archived) | HTML/CSS + .NET API (in zip) |
-| Task 3 | `Task 3 Login System using Validation` | Login + validation (folder present, no files currently) | — |
+| Task 1 | `Task 1 Student Registration.zip` | Archived bundle with frontend + Student API files | HTML/CSS + .NET API (in zip) |
+| Task 3 | `Task 3 Login System using Validation` | Reserved task folder (currently empty) | — |
 | Task 4 | `Task 4 Order Management using Joins` | SQL joins, aggregation, top records | SQL Server |
 | Task 5 | `Task 5 Transaction Based Payment Simulation` | Transaction handling with commit/rollback | SQL Server |
 | Task 6 | `Task 6 Automated Logging using Triggers & Views` | Triggers, audit logs, reporting view | SQL Server |
@@ -133,6 +133,7 @@ Examples:
 
 - Several folders include `target/` output already committed.
 - Some tasks are only available as zipped archives.
+- A few task folders may be placeholders while their submissions are stored as archives.
 - Database credentials in `application.properties` are placeholders in some modules and may need local updates.
 
 ---
