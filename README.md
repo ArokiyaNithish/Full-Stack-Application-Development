@@ -1,4 +1,4 @@
-# Full-Stack-Application-Development
+# Full Stack Application Development (Course)
 
 A collection of weekly full-stack practice tasks covering SQL, frontend, Spring Core, Spring MVC, Spring Boot REST APIs, and microservices.
 
