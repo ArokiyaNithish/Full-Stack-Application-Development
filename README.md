@@ -141,5 +141,5 @@ Examples:
 ## Author
 
 - **Name:** Arokiya Nithish J  
-- **LinkedIn:** arokiya nithish j  
+- **LinkedIn:** Arokiya Nithish J  
 - **GitHub:** ArokiyaNithish
